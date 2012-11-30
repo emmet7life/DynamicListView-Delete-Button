@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, dynamicListView!</string>
+    <string name="app_name">Androidpeople.com-Dynamic List View</string>
+    <string-array name="espinner">
+        <item>ONE</item>
+        <item>TWO</item>
+        <item>THREE</item>
+        <item>FOUR</item>
+    </string-array>
+</resources>
